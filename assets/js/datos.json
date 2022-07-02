@@ -1,0 +1,5 @@
+[
+    {"id": 1, "nombre":"Peugeot 308", "imagen":"308.jpeg", "precio":"$4500", "propietario":"Juan Salinas","contacto":"2613374046"},
+    {"id": 2 , "nombre":"Toyota Corolla", "imagen":"corolla.jpeg", "precio":"$5500", "propietario":"Rosa Colombo","contacto":"2614375046"},
+    {"id":5, "nombre":"Nissan Versa", "imagen":"versa.jpeg", "precio":"$6000", "propietario":" Mario Peña","contacto":"2615624145"}
+]
